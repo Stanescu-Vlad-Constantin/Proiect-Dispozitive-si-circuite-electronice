@@ -1,2 +1,2 @@
 # Project-of-electronic-devices-and-circuits
-Voltage stabilizer with series adjustment element
+Throughout this project i had to design a voltage stabilizer with series adjustment element, first I made the electrical diagram in Capture CIS Lite from Cadence, then the layout and routing in PCB Editor Lite. It was difficult from the beginning because I had to do a lot of research and change the electric circuit lots of times until all the components and simulations respected the given parameters. In the second part of the project I had to build the circuit on a circuit board and see if the stabilizer worked properly.
